@@ -1,6 +1,6 @@
-# orqiiia
+# insic
 
-Presentaciones para la Asignatura Instrumentación en Instituto Profesional Arcos \ 12 de Agosto 2018, utilizando el entorno de presentacion HTML http://lab.hakim.se/reveal-js/ y la libreria de JavaScript https://p5js.org/
+Presentaciones para la Asignatura Instrumentación en Instituto Profesional Arcos \ 22 de Agosto 2018, utilizando el entorno de presentacion HTML http://lab.hakim.se/reveal-js/ y la libreria de JavaScript https://p5js.org/
 
 001 [https://felixpinok.github.io/insic/001/](https://felixpinok.github.io/insic/001/)
 
